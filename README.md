@@ -1,0 +1,1 @@
+Conducted data cleaning on retail dataset using advanced Excel functions, including Pivot tables to summarize data. Built dashboards in Excel to communicate demographic segments, customer behaviour and income trends.
