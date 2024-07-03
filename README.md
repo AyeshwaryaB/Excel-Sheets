@@ -1,1 +1,1 @@
-Conducted data cleaning on retail dataset using advanced Excel functions, including Pivot tables to summarize data. Built dashboards in Excel to communicate demographic segments, customer behaviour and income trends.
+Designed a Bike Sales dashboard in Excel, utilizing a raw dataset "bike_buyers" sheet. Formulas used: Check for duplicates, IF statements, nested IF’s, Pivot tables, Charts, and Slicer to conduct data analysis. Built dashboards to communicate demographic segments, customer behaviour and income trends.
